@@ -4,6 +4,9 @@
 * ***display***
 > Com ele conseguimos mostrar ou não determinado elementos na tela.
 
+* ***none***
+> Remove o elemento da tela, ou seja, ele não redenriza o elemento na tela.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
