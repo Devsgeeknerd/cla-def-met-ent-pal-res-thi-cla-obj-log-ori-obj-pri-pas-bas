@@ -1,5 +1,5 @@
 <!-- TITLE -->
-# 
+# Display — None, Inline, Block e Inline-block
 
 <!-- TABLE OF CONTENTS -->
 <!-- ## TABELA DE CONTEÚDO -->
