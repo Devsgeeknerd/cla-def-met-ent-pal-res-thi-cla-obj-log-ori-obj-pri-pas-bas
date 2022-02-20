@@ -1,6 +1,9 @@
 <!-- TITLE -->
 # Display — None, Inline, Block e Inline-block
 
+* ***display***
+> Com ele conseguimos mostrar ou não determinado elementos na tela.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
