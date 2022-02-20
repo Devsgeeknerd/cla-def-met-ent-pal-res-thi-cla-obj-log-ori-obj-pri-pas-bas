@@ -7,6 +7,9 @@
 * ***none***
 > Remove o elemento da tela, ou seja, ele não redenriza o elemento na tela.
 
+* ***block***
+> Basicamente ele diz que este elemento vai ter a disposição bloco.
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
