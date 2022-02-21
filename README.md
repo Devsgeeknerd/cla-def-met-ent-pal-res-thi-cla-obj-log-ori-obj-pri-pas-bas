@@ -15,6 +15,10 @@
 * ***none***
 > Remove o elemento da tela, ou seja, ele não redenriza o elemento na tela.
 
+```css
+    display: block;
+```
+
 * ***block***
 > Basicamente ele diz que este elemento vai ter a disposição bloco.
 
