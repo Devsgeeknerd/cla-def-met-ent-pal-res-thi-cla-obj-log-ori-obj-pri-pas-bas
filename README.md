@@ -20,6 +20,7 @@
 >
 > Vai ter também propriedades de *block*.
 
+`NOTA`: O *span* não funciona como um bloco, mas temos como seta ele para funcionar como um bloco.
 
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
