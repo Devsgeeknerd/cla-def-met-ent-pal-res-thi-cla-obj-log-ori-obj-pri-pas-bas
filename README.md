@@ -1,6 +1,10 @@
 <!-- TITLE -->
 # Display — None, Inline, Block e Inline-block
 
+```css
+    display: ;
+```
+
 * ***display***
 > Com ele conseguimos mostrar ou não determinado elementos na tela.
 
