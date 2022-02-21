@@ -13,6 +13,14 @@
 * ***inline***
 > Basicamente ele se adpta ao conteúdo que tem dentro dele.
 
+* ***inline-block***
+> É uma junção do *inline* com o *block*.
+> 
+> Ele vai ficar um ao lado do outro na horizontal.
+>
+> Vai ter também propriedades de *block*.
+
+
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
