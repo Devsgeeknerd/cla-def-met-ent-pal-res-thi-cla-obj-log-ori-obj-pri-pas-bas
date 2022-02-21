@@ -8,6 +8,10 @@
 * ***display***
 > Com ele conseguimos mostrar ou não determinado elementos na tela.
 
+```css
+    display: none;
+```
+
 * ***none***
 > Remove o elemento da tela, ou seja, ele não redenriza o elemento na tela.
 
