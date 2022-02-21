@@ -29,6 +29,10 @@
 * ***inline***
 > Basicamente ele se adpta ao conteúdo que tem dentro dele.
 
+```css
+    display: inline-block;
+```
+
 * ***inline-block***
 > É uma junção do *inline* com o *block*.
 > 
