@@ -22,6 +22,10 @@
 * ***block***
 > Basicamente ele diz que este elemento vai ter a disposição bloco.
 
+```css
+    display: inline;
+```
+
 * ***inline***
 > Basicamente ele se adpta ao conteúdo que tem dentro dele.
 
