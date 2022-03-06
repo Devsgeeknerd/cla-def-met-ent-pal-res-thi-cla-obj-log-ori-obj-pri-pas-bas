@@ -6,6 +6,7 @@
 ```
 
 * ***display***
+
 > Com ele conseguimos mostrar ou não determinado elementos na tela.
 
 ```css
@@ -13,6 +14,7 @@
 ```
 
 * ***none***
+
 > Remove o elemento da tela, ou seja, ele não redenriza o elemento na tela.
 
 ```css
@@ -20,6 +22,7 @@
 ```
 
 * ***block***
+
 > Basicamente ele diz que este elemento vai ter a disposição bloco.
 
 ```css
@@ -27,6 +30,7 @@
 ```
 
 * ***inline***
+
 > Basicamente ele se adpta ao conteúdo que tem dentro dele.
 
 ```css
@@ -34,8 +38,9 @@
 ```
 
 * ***inline-block***
+
 > É uma junção do *inline* com o *block*.
-> 
+>
 > Ele vai ficar um ao lado do outro na horizontal.
 >
 > Vai ter também propriedades de *block*.
@@ -45,17 +50,17 @@
 <!-- TABLE OF CONTENTS -->
 ## TABELA DE CONTEÚDO
 
-<!-- - [Vista por cima](#vista-por-cima) -->
-<!--  - [Foto da tela](#foto-da-tela) -->
-<!--  - [Links](#links) -->
-<!-- - [Meu processo](#meu-processo) -->
-<!--  - [Contruido com](#construido-com) -->
-<!--  - [O que aprendi](#o-que-aprendi) -->
-<!--  - [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  - [Recusos úteis](#recursos-úteis) -->
-<!-- - [Autor](#autor) -->
-<!-- - [Agradecimentos](#agradecimentos) -->
-- [Informações](#informações)
+<!-- * [Vista por cima](#vista-por-cima) -->
+<!--  * [Foto da tela](#foto-da-tela) -->
+<!--  * [Links](#links) -->
+<!-- * [Meu processo](#meu-processo) -->
+<!--  * [Contruido com](#construido-com) -->
+<!--  * [O que aprendi](#o-que-aprendi) -->
+<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
+<!--  * [Recusos úteis](#recursos-úteis) -->
+<!-- * [Autor](#autor) -->
+<!-- * [Agradecimentos](#agradecimentos) -->
+* [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
@@ -103,4 +108,3 @@
 ![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/dis-non-inl-blo/blob?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
 &nbsp;
 ![license](https://img.shields.io/github/license/Devsgeeknerd/dis-non-inl-blo/blob?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
-
