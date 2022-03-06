@@ -1,4 +1,6 @@
-/* Os atributos abaixo comentados foram substituidos por outro ou removidos durante a aula. */
+/* 
+    Os atributos abaixo comentados foram substituídos por outro ou removidos durante a aula. 
+*/
 
 /* div {
     background-color: #ff0000;
@@ -17,7 +19,7 @@ span {
 
 div {
     /* display: inline; */
-    display: inline-block;    
+    display: inline-block;
 }
 
 /* .quadrado {
